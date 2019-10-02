@@ -5,6 +5,7 @@ date: "10/2/2019"
 output: html_document
 ---
 this is my READMe file
+Learning how to commit changes
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
