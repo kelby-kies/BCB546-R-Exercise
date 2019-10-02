@@ -6,6 +6,7 @@ output: html_document
 ---
 this is my READMe file
 Learning how to commit changes
+Hello
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
